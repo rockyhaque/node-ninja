@@ -1,5 +1,13 @@
 # Node.js Repository
 
+<img src="https://i.ibb.co/SydNf6S/pngwing-com-1.png" align="right" width="110" height="110" />
+
+![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/node-ninja)
+![GitHub stars](https://img.shields.io/github/stars/rockyhaque/node-ninja?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rockyhaque?style=social)
+[![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
+[![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rocky_haque.10/)](https://www.instagram.com/rocky_haque.10/)
+[![Connect with me on Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rockyhaquee/)](https://www.facebook.com/rockyhaquee/)
 
 Welcome to the Node.js repository! This repository contains resources, tutorials, and examples for learning and mastering Node.js, the powerful JavaScript runtime environment.
 
