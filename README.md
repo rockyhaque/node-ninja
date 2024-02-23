@@ -1,4 +1,4 @@
-# Node.js Repository
+# Node.js
 
 <img src="https://i.ibb.co/SydNf6S/pngwing-com-1.png" align="right" width="110" height="110" />
 
